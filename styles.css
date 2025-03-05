@@ -26,13 +26,17 @@ h3 {
 }
 
 img {
-    height: 300px;
+    height: 400px;
     width: auto;
 }
 
 a:link {
     color: rgb(61, 145, 61);
     font-size: 24px;
+}
+
+a.home:link {
+    font-size: 16px;
 }
 
 p,
