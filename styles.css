@@ -7,6 +7,7 @@ h1 {
     text-align: center;
     font-weight: bold;
     font-size: 48px;
+    padding-bottom: 100px;
 }
 
 h1, 
@@ -32,4 +33,9 @@ a:link {
 p,
 li {
     text-align: justify;
+}
+
+li {
+    padding-left: 50%;
+    padding-right: 50%;
 }
