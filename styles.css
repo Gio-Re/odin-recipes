@@ -1,12 +1,17 @@
 body {
     background-color: rgb(252, 252, 157);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 50px 200px;
 }
 
 h1 {
     text-align: center;
     font-weight: bold;
     font-size: 48px;
+    padding-bottom: 30px;
+}
+
+.odin {
     padding-bottom: 100px;
 }
 
